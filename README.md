@@ -83,3 +83,18 @@ When integrated into Faster R-CNN (ResNet-50 backbone), GMamba consistently impr
 
 ---
 
+## 📑 **Citation**
+
+```bibtex
+@inproceedings{
+hui2026enabling,
+title={Enabling True Global Perception in State Space Models for Visual Tasks},
+author={Jie Hui and Zhenxiang Zhang and Wenyu Mi and Jianji Wang},
+booktitle={The Fourteenth International Conference on Learning Representations},
+year={2026},
+url={https://openreview.net/forum?id=96p1eBUVaN}
+}
+```
+
+---
+
