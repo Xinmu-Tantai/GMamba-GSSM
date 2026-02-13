@@ -12,8 +12,8 @@ Official repository of the ICLR 2026 paper:
 🔗 **Paper (OpenReview):** [https://openreview.net/forum?id=96p1eBUVaN](https://openreview.net/forum?id=96p1eBUVaN)
 
 
+<img width="2560" height="1440" alt="poster5120" src="https://github.com/user-attachments/assets/4b31a125-a3b9-40a0-95be-3ca2632c8886" />
 
-<img width="4001" height="2251" alt="iclr-poster" src="https://github.com/user-attachments/assets/e1b1b407-50e2-47ff-93be-776c4ba16704" />
 
 
 ---
